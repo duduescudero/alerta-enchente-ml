@@ -1,0 +1,13 @@
+# ZIPs originais do INMET (cerca de 390 MB): baixe pelos links em ml/dados/README.md
+ml/dados/brutos/
+
+# Python e Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db

@@ -4,7 +4,7 @@
 
 Equipe AlertaEnchente: Arthur Silva (RM553320) · Eduardo Escudero (RM556527) · Leonardo Prado (RM556824) · Davi Vieira (RM556798) · Luca Monteiro (RM556906)
 
-Notebook executado: [`previsao_chuva_intensa.ipynb`](previsao_chuva_intensa.ipynb) · Números: [`resultados/metricas.json`](resultados/metricas.json)
+Notebook executado: [`previsao_chuva_intensa.ipynb`](previsao_chuva_intensa.ipynb) · Números: [`resultados/metricas.json`](resultados/metricas.json) · Vídeo: https://youtu.be/SU0VIFzwkMw
 
 ## 1. Problema e pergunta de ML
 

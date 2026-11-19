@@ -24,7 +24,7 @@ O **AlertaEnchente** avisa moradores de áreas alagáveis do Jardim Helena (Zona
 | Dependências | [`ml/requirements.txt`](ml/requirements.txt) |
 | Gráficos e métricas | [`ml/resultados/`](ml/resultados) |
 | Registro de uso de IA | [`prompts.md`](prompts.md) |
-| Vídeo | _link do YouTube_ |
+| Vídeo (3min34s) | https://youtu.be/SU0VIFzwkMw |
 
 ## Resumo em 30 segundos
 
